@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-  My name is Guilherme Negromonte, I'm 19 years old, and I'm originally from João Pessoa, Paraíba, Brazil, but I currently live in Amsterdam. I completed high school at Montessori Lyceum Oostpoort and have taken several programming courses on Udemy. Now, I'm studying Software Engineering at ROC in Amsterdam. I'm passionate about technology and always eager to learn and grow in this field.
+  My name is Guilherme Negromonte, I'm originally from João Pessoa, Paraíba, Brazil, but I currently live in Amsterdam. I completed high school at Montessori Lyceum Oostpoort and have taken several programming courses on Udemy. Now, I'm studying Software Engineering at ROC in Amsterdam. I'm passionate about technology and always eager to learn and grow in this field.
 
 ---
 <div> 
